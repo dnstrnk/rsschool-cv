@@ -1,11 +1,11 @@
 @font-face {
 	font-family: "stint";
-	src: url("../fonts/stint.ttf")
+	src: url("../fonts/Stint.ttf")
 }
 
 @font-face {
 	font-family: "rust";
-	src: url("../fonts/rust.otf")
+	src: url("../fonts/Rust.otf")
 }
 
 @font-face {
@@ -15,5 +15,5 @@
 
 @font-face {
 	font-family: "asem";
-	src: url("../fonts/asem.otf")
+	src: url("../fonts/Asem.otf")
 }
