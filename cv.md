@@ -14,3 +14,11 @@ Build up a career as a programmer and become an expert in this field.
 **Programming languages:** HTML, SCSS/CSS  
 **Frameworks and Libraries:** Bootstrap, JQuery  
 **Tools:** GIT, Atom, VS Code, Adobe Photoshop
+
+## Professional Experience
+
+**Military service, 2016 - 2019**  
+**Position:** Complex operator
+
+**Web-Developer, 2019 - now**  
+**Position:** Front-end Developer
