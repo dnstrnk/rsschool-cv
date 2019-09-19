@@ -27,4 +27,4 @@ Build up a career as a programmer and become an expert in this field.
 
 **Federal State Higher Military Educational Establishment "Nakhimov Black Sea Higher Naval School", Sevastopol, 2011 - 2016**  
 **Qualification:** Specialist  
-**specialty:** Information Security
+**Specialty:** Information Security
