@@ -22,3 +22,9 @@ Build up a career as a programmer and become an expert in this field.
 
 **Web-Developer, 2019 - now**  
 **Position:** Front-end Developer
+
+## Education  
+
+**Federal State Higher Military Educational Establishment "Nakhimov Black Sea Higher Naval School", Sevastopol, 2011 - 2016**  
+**Qualification:** Specialist  
+**specialty:** Information Security
