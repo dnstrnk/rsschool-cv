@@ -37,7 +37,7 @@ footer {
 	text-transform: uppercase;
 	font-size: 70px;
 	line-height: 1;
-	font-family: "stint";
+	font-family: "Stint";
 	padding-top: 100px;
 	font-stretch: expanded;
 }
@@ -59,14 +59,14 @@ body div.mybio {
 .mybio p:first-child {
 	padding-top: 40px;
 	font-size: 30px;
-	font-family: "rust";
+	font-family: "Rust";
 }
 
 .mybio p:last-child {
 	padding-top: 40px;
 	padding-bottom: 40px;
 	font-size: 15px;
-	font-family: "montserrat";
+	font-family: "Montserrat";
 	text-decoration: none;
 }
 
@@ -76,7 +76,7 @@ body div.mybio {
 	height: 200px;
 	width: calc(100% / 4.5);
 	font-size: 13px;
-	font-family: "montserrat";
+	font-family: "Montserrat";
 	margin-left: 12px;
 	padding: 50px 5px 0px 5px;
 	border-radius: 10px;
@@ -91,18 +91,18 @@ body div.mybio {
 }
 
 .perfomance span {
-	font-family: "rust";
+	font-family: "Rust";
 	font-size: 15px;
 }
 
 .perfomance {
 	padding-top: 30px;
-	font-family: "rust";
+	font-family: "Rust";
 }
 
 .perf-0 {
 	padding-bottom: 30px;
-	font-family: "rust";
+	font-family: "Rust";
 	font-size: 30px;
 }
 
@@ -119,7 +119,7 @@ body div.mybio {
 	display: block;
 	width: 100%;
 	text-align: center;
-	font-family: "rust";
+	font-family: "Rust";
 	color: black;
 	text-decoration: none;
 }
@@ -131,13 +131,13 @@ body div.mybio {
 .contact div {
 	display: inline-block;
 	width: calc(100% / 4.0599);
-	font-family: "montserrat";
+	font-family: "Montserrat";
 }
 
 body div.thanks {
 	text-align: center;
 	font-size: 60px;
-	font-family: "asem";
+	font-family: "Asem";
 	background-image: url(https://image.freepik.com/free-photo/white-loft-concrete-texture-background_7423-443.jpg);
 	background-size: contain;
 	box-shadow: 0px 0px 20px -10px black;
