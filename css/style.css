@@ -168,6 +168,7 @@ footer a:last-child {
 	text-align: center;
 	font-family: "rust";
 	padding-bottom: 8px;
+	color: #222;
 }
 
 footer a:active, a:focus, a:hover, a:visited {
