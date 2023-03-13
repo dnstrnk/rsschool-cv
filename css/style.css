@@ -1,0 +1,176 @@
+.wrapper {
+	margin: 0 auto;
+	width: 1024px;
+	background: rgb(255, 255, 255);
+	background: radial-gradient(circle, rgba(255, 255, 255, 1) 7%, rgba(34, 34, 34, 1) 100%);
+}
+
+body>div:not(:last-child),
+footer {
+	background-image: linear-gradient(90deg, #e0e0e0 4.55%, #ffffff 4.55%, #ffffff 50%, #e0e0e0 50%, #e0e0e0 54.55%, #ffffff 54.55%, #ffffff 100%);
+	background-size: 22.00px 22.00px;
+}
+
+.mynameis {
+	position: relative;
+	height: 200px;
+	margin-top: 150px;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+}
+
+.mynameis img {
+	position: absolute;
+	top: -130px;
+	left: calc(100% / 2 - 99px);
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	margin: 0px;
+	border: 1px solid grey;
+	box-shadow: 0px 0px 40px -10px black;
+}
+
+.mynameis p {
+	position: relative;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 70px;
+	line-height: 1;
+	font-family: "Stint";
+	padding-top: 100px;
+	font-stretch: expanded;
+}
+
+body div.mybio {
+	position: relative;
+	background-image: url(https://image.freepik.com/free-photo/white-loft-concrete-texture-background_7423-443.jpg);
+	background-size: contain;
+	text-align: center;
+	color: black;
+	box-shadow: 0px 0px 20px -10px black;
+}
+
+.mybio a {
+	text-decoration: underline;
+	color: black;
+}
+
+.mybio p:first-child {
+	padding-top: 40px;
+	font-size: 30px;
+	font-family: "Rust";
+}
+
+.mybio p:last-child {
+	padding-top: 40px;
+	padding-bottom: 40px;
+	font-size: 15px;
+	font-family: "Montserrat";
+	text-decoration: none;
+}
+
+.perfomance div + div {
+	display: inline-block;
+	vertical-align: top;
+	height: 200px;
+	width: calc(100% / 4.5);
+	font-size: 13px;
+	font-family: "Montserrat";
+	margin-left: 12px;
+	padding: 50px 5px 0px 5px;
+	border-radius: 10px;
+	background-image: url(https://image.freepik.com/free-photo/white-loft-concrete-texture-background_7423-443.jpg);
+	background-size: cover;
+	line-height: 1.7;
+	box-shadow: 0px 0px 20px -10px black;
+}
+
+.perfomance p {
+	text-align: center;
+}
+
+.perfomance span {
+	font-family: "Rust";
+	font-size: 15px;
+}
+
+.perfomance {
+	padding-top: 30px;
+	font-family: "Rust";
+}
+
+.perf-0 {
+	padding-bottom: 30px;
+	font-family: "Rust";
+	font-size: 30px;
+}
+
+.contact {
+	padding: 50px 0px 50px 0px;
+}
+
+.contact > a {
+	font-size: 30px;
+	padding-bottom: 30px;
+}
+
+.contact a {
+	display: block;
+	width: 100%;
+	text-align: center;
+	font-family: "Rust";
+	color: black;
+	text-decoration: none;
+}
+
+.contact div a:hover {
+	transform: scale(1.1);
+}
+
+.contact div {
+	display: inline-block;
+	width: calc(100% / 4.0599);
+	font-family: "Montserrat";
+}
+
+body div.thanks {
+	text-align: center;
+	font-size: 60px;
+	font-family: "Asem";
+	background-image: url(https://image.freepik.com/free-photo/white-loft-concrete-texture-background_7423-443.jpg);
+	background-size: contain;
+	box-shadow: 0px 0px 20px -10px black;
+}
+
+.thanks p:last-child {
+	font-size: 90px;
+}
+
+footer {
+	background: darkgrey;
+	margin-bottom: 30px!important;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	box-shadow: 0px 0px 20px -5px black;
+}
+
+footer a:first-child {
+	width: 100px;
+	display: block;
+	margin: 0 auto;
+	padding: 8px 0;
+
+}
+
+footer a:last-child {
+	display: block;
+	text-align: center;
+	font-family: "rust";
+	padding-bottom: 8px;
+	color: #222;
+}
+
+footer a:active, a:focus, a:hover, a:visited {
+	color: #222;
+}
