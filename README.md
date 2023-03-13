@@ -1,1 +1,1 @@
-# rsschool-cv
+https://dnstrnk.github.io/rsschool-cv/
